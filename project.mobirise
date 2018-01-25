@@ -4,7 +4,7 @@
     "currentPage": "index.html",
     "theme": {
       "name": "default",
-      "title": "Khsuh Patel",
+      "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
         "#252525"
@@ -20,7 +20,8 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/khush-patel-128x128.png",
     "noImageResize": "",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -117,7 +118,7 @@
           },
           "title": "Introduction !",
           "text": "<p>I am Khush Patel. I am Coder, Tech Enthusiast and Ignite Teenovator. Studying Bachelor of Technology Computer Science and Engineering specialization in IBM Cloud Based Application at Institute of Computer Technology, Ganpat University. For more details <a href=\"aboutme.html#content1-12\" style=\"background-color: rgb(255, 255, 255);\">Click here</a><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://khushpatel.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -156,15 +157,15 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://khushpatel.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "khushpatel",
-              "link": "https://khushpatel.com"
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Khush Patel</a>",
@@ -264,7 +265,7 @@
           },
           "title": "Technical Projects",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://khushpatel.com\">TRY FOR FREE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
@@ -302,15 +303,15 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://khushpatel.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "khushpatel",
-              "link": "https://khushpatel.com"
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Khush Patel</a>",
@@ -359,7 +360,7 @@
           },
           "title": "Inventions",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://khushpatel.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
@@ -461,15 +462,15 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://khushpatel.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "khushpatel",
-              "link": "https://khushpatel.com"
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Khush Patel</a>",
@@ -512,7 +513,7 @@
           },
           "title": "Certifications",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://khushpatel.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
@@ -552,7 +553,7 @@
           },
           "title": "",
           "text": "Google Applied CS with Android\n<br>Google Cloud Platform Fundamentals (CP100A)\n<br>Google Code-In 2015\n<br>Google Power Searching\n<br>Microsoft India AppFest\n<br>Microsoft Digital Literacy Test\n<br>Intel Tech Challenge\n<br>TCS IT Wiz 2013\n<br>Python Training by Spoken Tutorial, IIT Bombay\n<br>Scientific Computing using Python by FOSSEE, IIT Bombay\n<br>Udemy Networking Concepts for Beginners\n<br>Digital Wellness Online Challenge\n<br>LaTeX Training by Spoken Tutorial, IIT Bombay\n<br>Google Science Fair 2014<br><br>For more Certificates, Please visit my <a href=\"https://www.linkedin.com/in/iKhushPatel\">LinkedIn</a>&nbsp;<br><br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://khushpatel.com\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
@@ -590,7 +591,7 @@
           },
           "title": "Awards",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://khushpatel.com\">TRY FOR FREE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
@@ -627,7 +628,7 @@
           },
           "title": "",
           "text": "Honor Medal in I-SWEEEP International Project Olympiad at Houston,\nTexas (USA)\n<br>IGNITE Award from Dr. APJ Abdul Kalam by NIF-India at IIM Ahmedabad\n<br>Google Facilitator for Applied CS with Android program from Ganpat\nUniversity<br><br>For more Awards, Please visit my <a href=\"https://www.linkedin.com/in/iKhushPatel\">LinkedIn</a><br><br><a href=\"https://www.linkedin.com/in/iKhushPatel\"><br></a><br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://khushpatel.com\">START A JOURNEY</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
           "_tags": [
             "Theme"
           ],
@@ -687,7 +688,7 @@
           }
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/cv - Copy.pdf\" data-toolbar=\"-mbrBtnMove\">RESUME</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"assets/files/Khush%20Patel%20-%20Resume.pdf\" data-toolbar=\"-mbrBtnMove\">RESUME</a> ",
           "_tags": [
             "Theme"
           ],
@@ -725,15 +726,15 @@
             "fontName": {},
             "fontColor": "#000000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://khushpatel.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://khushpatel.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"recognitions.html\" aria-expanded=\"false\">RECOGNITIONS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"#top\" aria-expanded=\"false\">PROJECTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-t\">Technical Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"projects.html#msg-box2-u\" aria-expanded=\"false\">Inventions</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">ABOUT ME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"index.html\">HOME</a></li>",
           "logo": {
             "image": {
               "active": true,
               "src": "images/logo.png",
               "class": "",
               "height": 128,
-              "alt": "khushpatel",
-              "link": "https://khushpatel.com"
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
             }
           },
           "brand": "<a class=\"text-danger\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Khush Patel</a>",
