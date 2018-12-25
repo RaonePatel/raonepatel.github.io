@@ -1,13 +1,15 @@
 
 <html>
 <head>
-	<link rel="stylesheet" type="text/css"  href="css/lib/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css"  href="css/lib/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css"  href="css/lib/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="fonts/ionicons/css/ionicons.min.css">
+		<link rel="stylesheet" type="text/css" href="fonts/ionicons/css/ionicons.min.css">
     <link rel="stylesheet" type="text/css" href="css/lib/jquery.fullPage.css" />
 
     <link rel="stylesheet" type="text/css"  href="css/floating-menu.css">
     <link rel="stylesheet" type="text/css"  href="css/custom-style.css">
+		<link rel="stylesheet" type="text/css"  href="css/timeline.css">
     <link href="http://fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css"/>
 	<title>News | Khush Patel</title>
 	<meta name="viewport" content="width=device-width" />
@@ -63,7 +65,7 @@
 		</div>
 		<div class="row mobile-display-block mobile-menu">
 			<div class="col-sm-12 text-left">
-				<h2><a class="" href="http://www.khushpatel.com"><i class="fa fa-globe fa-2x"></i></a></h2>
+				<h2><a class="" href="index.html"><i class="fa fa-home fa-2x"></i></a></h2>
 			</div>
 		</div>
 		<div>
@@ -103,11 +105,38 @@
 				<div class="col-md-6 col-sm-12 section-half">
 					<h2 class="primary-black text-left">News Channels Coverage</h2>
 					<h4 class="text-left">Give me a museum and I will fill it</h4>
-					<div class="margin-bottom-default">
-					<span>
-						Navachara Museum is a technology museum for kids at the President House of India in New Delhi. It is a pride to share that Navachara Museum has installation of our initiative from ideation to execution. The museum beholds some of the best innovations in technology done by school kids who were a part of various Makeathons and workshops. The museum potrays the upcoming bright future of the nation, through its exhibits.
-					</span></div>
-
+					<div class="container">
+						<ul class="timeline">
+							<li class="timeline-inverted">
+								<div class="timeline-badge info fa fa-graduation-cap"></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading ">
+										<h4 class="primary-black timeline-title">Ganpat University</h4>
+									</div>
+									<div class="timeline-body">
+										<div class="margin-bottom-small">2015 - 2019</div>
+										<div class="margin-bottom-small">B.Tech. Computer Science and Engineering<div>
+										<div class="margin-bottom-small">(Specialization: IBM Cloud Based Applications)</div>
+										<div class="margin-bottom-small">CGPA: 8.34/10.00 | Grade: A (till 6th Semester)</div>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-inverted">
+								<div class="timeline-badge info fa fa-university"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading ">
+										<h4 class="primary-black timeline-title">Nutan Vidya Vihar Higher Secondary School</h4>
+									</div>
+									<div class="timeline-body">
+										<div class="margin-bottom-small">2013 - 2015</div>
+										<div class="margin-bottom-small">High School - Class 12 (Science Stream)</div>
+										<div class="margin-bottom-small">Gujarat Secondary and Higher Secondary Education Board</div>
+										<div class="margin-bottom-small">Grade: 83.52 Percentile</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+						</div>
 				</div>
 			</div>
 		</div>
@@ -165,8 +194,8 @@
 <div class="footer-custom">
 		<div class="bottom-side-div cube-div">
 			<div class="floatingContainer">
-				<div id="Home" class="dummyActionButton">
-			  	<a href="index.html"><i style="margin:10px 12px" class="fa fa-globe fa-2x"></i></a>
+			  <div id="Home" class="dummyActionButton">
+			  	<a href="index.html"><i style="margin:10px 12px" class="fa fa-home fa-2x"></i></a>
 			  </div>
 			</div>
 		</div>
@@ -174,13 +203,16 @@
 		<div class="bottom-side-div avatar-div">
 			<div class="floatingContainer">
 			  <div class="subActionButton" style="text-align: center">
+			    <span><a href="https://www.linkedin.com/in/ikhushpatel" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></span>
+			  </div>
+			  <div class="subActionButton" style="text-align: center">
 			    <span><a href="https://www.facebook.com/iKhushPatel" target="_blank"><i class="fa fa-facebook fa-lg"></i></a></span>
 			  </div>
-			  <div class="subActionButton" style="text-align: center">
-			    <span><a href="https://twitter.com/iKhushPatel" target="_blank"><i class="fa fa-twitter fa-lg"></i></a></span>
+				<div class="subActionButton" style="text-align: center">
+			    <span><a href="https://www.instagram.com/iKhushPatel" target="_blank"><i class="fa fa-instagram fa-lg"></i></a></span>
 			  </div>
 			  <div class="subActionButton" style="text-align: center">
-			    <span><a href="https://www.linkedin.com/in/ikhushpatel" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></span>
+			    <span><a href="https://www.youracclaim.com/user/ikhushpatel" target="_blank"><i class="fa fa-arrow-up fa-lg"></i></a></span>
 			  </div>
 			  <div class="subActionButton" style="text-align: center">
 			    <span><a href="https://github.com/iKhushPatel?tab=repositories" target="_blank"><i class="fa fa-github fa-lg"></i></a></span>
@@ -188,11 +220,11 @@
 			  <div class="subActionButton" style="text-align: center">
 			    <span><a href="mailto:i@khushpatel.com"><i class="fa fa-envelope fa-lg"></i></a></span>
 			  </div>
-			  <div class="subActionButton" style="text-align: center">
+			  <!-- <div class="subActionButton" style="text-align: center">
 			    <span><a href="/"><i class="fa fa-puzzle-piece fa-lg"></i></a></span>
-			  </div>
-			  <div class="actionButton">
-			  	<img class="img-responsive img-circle img-float img-middle" title="" src="img/Khush.jpg">
+			  </div> -->
+				<div id = "Connect" class="actionButton dummyActionButtonConnect">
+						<img class="img-responsive img-circle img-float img-middle" title="" src="img/Khush.jpg">
 			  </div>
 			</div>
 		</div>
