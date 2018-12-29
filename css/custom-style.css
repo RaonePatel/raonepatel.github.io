@@ -238,6 +238,9 @@ a:active{
 .margin-bottom-small{
 	margin-bottom: 5px;
 }
+.margin-left-small{
+	margin-left: 2%;
+}
 
 /* center align vertically and horizontally div on your browser screen */
 .centered_div{
