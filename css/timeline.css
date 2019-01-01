@@ -100,7 +100,7 @@
 
 .timeline > li.timeline-inverted > .timeline-panel {
   float: left;
-  right: -75px;
+  right: -6%;
 }
 
 .timeline > li.timeline-inverted > .timeline-panel:before {
