@@ -252,13 +252,18 @@ a:active{
 }
 @media (min-height: 800px){
 	.centered_div {
-	   width: Xu;
+		width: calc(100% - 60px);
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+	   /* width: Xu;
 	   height: Yu;
 	   position: absolute;
 	   top: 50%;
 	   left: 50%;
 	   margin-left: -(X/2)u;
-	   margin-top: -(Y/2)u;
+	   margin-top: -(Y/2)u; */
 	}
 	.img-streach{
 		height:1024px;
@@ -340,14 +345,18 @@ a:active{
 	background-color: #fff;
 }
 
-
-
 .landing .subActionButton{
 	background-color: #fff;
 	color: #3BADE9;
+
 }
+
 .landing .subActionButton a i{
 	color: #3BADE9;
+}
+
+.subActionButton a:hover {
+color: #000;
 }
 .drop-content{
 	margin-top: -30px !important;
