@@ -41,7 +41,10 @@
 }
 
 .timeline > li > .timeline-panel {
+<<<<<<< HEAD
   /* width: calc(100% - 60px); */
+=======
+>>>>>>> 0df8f4803d752639fb4ecdc50cdd711eb6efb26c
   width: 46%;
   float: left;
   border: 1px solid #d4d4d4;
